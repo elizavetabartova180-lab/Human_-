@@ -35,9 +35,9 @@ namespace Human_Бартова.Classes
         public static List<Phrase> AllPhrases()
         {
             List<Phrase> allPhrases = new List<Phrase>();
-            allPhrases.Add(new Phrase("Привет", @"..."));
-            allPhrases.Add(new Phrase("Как дела?", @"..."));
-            allPhrases.Add(new Phrase("Меня зовут Александр.", @"..."));
+            allPhrases.Add(new Phrase("Привет", @"C:\Users\student-A502.PERMAVIAT\Desktop\Human_Бартова\Voices\ElevenLabs_ Made by unitool.ai.mp3"));
+            allPhrases.Add(new Phrase("Как дела?", @"C:\Users\student-A502.PERMAVIAT\Desktop\Human_Бартова\Voices\ElevenLabs_ Как дела....mp3"));
+            allPhrases.Add(new Phrase("Меня зовут Александр.", @"C:\Users\student-A502.PERMAVIAT\Desktop\Human_Бартова\Voices\ElevenLabs_ Меня зов....mp3"));
             return allPhrases;
         }
     }
