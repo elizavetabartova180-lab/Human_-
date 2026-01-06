@@ -11,9 +11,9 @@ namespace Human_Бартова.Classes
     {
         public string Name { get; set; }
         public string Img { get; set; }
-        public Human(string name, string Img)
+        public Human(string Name, string Img)
         {
-            this.Name = name;
+            this.Name = Name;
             this.Img = Img;
         }
         public abstract void Speak(Label Phrase);

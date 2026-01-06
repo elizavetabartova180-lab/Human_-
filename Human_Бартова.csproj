@@ -67,6 +67,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Classes\English.cs" />
     <Compile Include="Classes\Human.cs" />
     <Compile Include="Classes\Phrase.cs" />
     <Compile Include="Classes\Russian.cs" />
@@ -112,6 +113,9 @@
   <ItemGroup>
     <Content Include="Voices\ElevenLabs_ Как дела....mp3" />
     <Content Include="Voices\ElevenLabs_ Меня зов....mp3" />
+    <Content Include="Voices\hello_en.mp3" />
+    <Content Include="Voices\howareyou_en.mp3" />
+    <Content Include="Voices\mynameis_en.mp3" />
     <Content Include="Voices\привет.mp3" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
