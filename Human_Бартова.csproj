@@ -110,7 +110,6 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <Content Include="Voices\ElevenLabs_ Made by unitool.ai.mp3" />
     <Content Include="Voices\ElevenLabs_ Как дела....mp3" />
     <Content Include="Voices\ElevenLabs_ Меня зов....mp3" />
     <Content Include="Voices\привет.mp3" />
